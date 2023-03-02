@@ -1,0 +1,653 @@
+name: 'Sleeping Beauty'
+description: 'Sleep Forever(actually 35 days)'
+runs:
+  using: 'composite'
+  steps:
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash 
+    - run: sleep 350m
+      shell: bash
+    - run: sleep 350m
+      shell: bash
